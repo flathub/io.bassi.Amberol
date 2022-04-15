@@ -41,8 +41,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.gnome.org/ebassi/amberol/uploads/a1b1ba0c1b7257206504b8c4658e0eca/amberol-0.2.1.tar.xz",
-                    "sha256" : "70fa44d306746fbece918f18bb5edc295d7bfadc21312da6fa9ae98d731fdf3d"
+                    "url" : "https://gitlab.gnome.org/ebassi/amberol/uploads/fabc7061006ce72712fddcffa92afd1e/amberol-0.3.0.tar.xz",
+                    "sha256" : "43aab71e0cffa2c52cbc6b2ee62a6778721e0d257e92cd8037c4dbce560581dd"
                 }
             ]
         }
