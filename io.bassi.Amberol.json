@@ -9,6 +9,7 @@
     "command" : "amberol",
     "finish-args" : [
         "--device=dri",
+        "--filesystem=xdg-download:ro",
         "--filesystem=xdg-music:ro",
         "--share=network",
         "--share=ipc",
