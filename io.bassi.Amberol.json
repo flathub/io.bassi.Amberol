@@ -10,7 +10,6 @@
     "finish-args" : [
         "--device=dri",
         "--filesystem=xdg-music:ro",
-        "--share=network",
         "--share=ipc",
         "--socket=fallback-x11",
         "--socket=wayland",
