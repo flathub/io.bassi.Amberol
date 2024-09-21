@@ -1,7 +1,7 @@
 {
     "app-id" : "io.bassi.Amberol",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "45",
+    "runtime-version" : "47",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -9,7 +9,6 @@
     "command" : "amberol",
     "finish-args" : [
         "--device=dri",
-        "--filesystem=xdg-download:ro",
         "--filesystem=xdg-music:ro",
         "--share=ipc",
         "--socket=fallback-x11",
@@ -41,8 +40,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.gnome.org/World/amberol/uploads/72e97689e1e4132c5bca7a7788ab956c/amberol-0.10.3.tar.xz",
-                    "sha256" : "cd7e54cef809c1b54e16f11081de2a3aadee6a048a1d92c8275d0529104e664a"
+                    "url" : "https://gitlab.gnome.org/-/project/20183/uploads/2f6b9dfa3421d3307ebd6f1ca5c96507/amberol-2024.1.tar.xz",
+                    "sha256" : "afc4f7c91fd29b6a1effedee8e74df8ba5989cddfa8c43d65416ee6d2788188c"
                 }
             ]
         }
