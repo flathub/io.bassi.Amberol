@@ -40,8 +40,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.gnome.org/-/project/20183/uploads/2f6b9dfa3421d3307ebd6f1ca5c96507/amberol-2024.1.tar.xz",
-                    "sha256" : "afc4f7c91fd29b6a1effedee8e74df8ba5989cddfa8c43d65416ee6d2788188c"
+                    "url" : "https://gitlab.gnome.org/-/project/20183/uploads/c8382cadea1e52a9ac3dc2d24f5c3c22/amberol-2024.2.tar.xz",
+                    "sha256" : "1c1a42b27846fcd52559e17ff41883f94121b2dfb3be8468757b9d5d2d238baa"
                 }
             ]
         }
